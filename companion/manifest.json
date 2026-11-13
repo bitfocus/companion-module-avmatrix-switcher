@@ -23,8 +23,8 @@
 		"entrypoint": "../dist/main.js"
 	},
 	"legacyIds": [],
-	"manufacturer": "Avmatrix",
-	"products": ["Avmatrix Switcher"],
+	"manufacturer": "AVMATRIX",
+	"products": ["Switcher"],
 	"keywords": [
 		"AVMatrix",
 		"Avmatrix",
